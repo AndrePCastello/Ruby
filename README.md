@@ -1,3 +1,3 @@
 # Ruby
 
-## My exercices for Ruby 💎♦️
+## My exercices with Ruby 💎♦️
